@@ -8,7 +8,7 @@ Personal portfolio website built with **HTML, CSS, and JavaScript**.
 - Clean and minimal structure
 
 ## 🔹 Live Demo
-👉 [View on GitHub Pages](https://ahmd-aymn.github.io/portfolio/)
+👉 [View on GitHub Pages](https://ahmd-aymn.netlify.app/)
 
 ## 🔹 Technologies
 - HTML5
