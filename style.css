@@ -785,14 +785,12 @@ body {
 
 .project-title i {
   font-size: 22px;      
-  margin-right: -10px;
   position: relative;
 }
 
 .project-title h3 {
   margin: 0;
   line-height: 1;
-  margin-top: -20px;
   color: #0ea5e9;
 }
 

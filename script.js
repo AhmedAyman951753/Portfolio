@@ -177,6 +177,3 @@ links.forEach(link => {
     sidebarToggle.textContent = '☰';
   });
 });
-
-
-
