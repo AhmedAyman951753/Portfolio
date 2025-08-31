@@ -1129,7 +1129,7 @@ footer {
     object-fit: cover;
     border-radius: 50%; /* دائري بالكامل */
     display: block;
-    border: none; /* الصورة نفسها بدون border */
+    border: 3px solid #0ea5e9; /* الصورة نفسها بدون border */
     transition: transform 0.5s;
     transform: scale(1.1);
     filter: brightness(0.7);
@@ -1186,6 +1186,7 @@ footer {
   }
 
   .skill-group {
+    border: 1px solid #0ea5e9;
     width: 80%;
     max-width: 300px;
     margin: 0 auto; /* يضمن التوسيط */
@@ -1199,6 +1200,7 @@ footer {
     }
     .timeline-item {
         width: 90%;
+        border: 3px solid #0ea5e9;
     }
     .project-card {
     display: flex;
