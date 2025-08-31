@@ -1120,6 +1120,7 @@ footer {
     cursor: pointer;
     transition: transform 0.3s, box-shadow 0.3s;
     overflow: hidden; /* يمنع الصورة من تجاوز الدائرة */
+    border: 3px solid #0ea5e9;
 }
 
 /* الصورة داخل الـ wrapper */
@@ -1129,7 +1130,7 @@ footer {
     object-fit: cover;
     border-radius: 50%; /* دائري بالكامل */
     display: block;
-    border: 3px solid #0ea5e9; /* الصورة نفسها بدون border */
+     /* الصورة نفسها بدون border */
     transition: transform 0.5s;
     transform: scale(1.1);
     filter: brightness(0.7);
@@ -1200,13 +1201,14 @@ footer {
     }
     .timeline-item {
         width: 90%;
-        border: 3px solid #0ea5e9;
+        border: 1px solid #0ea5e9;
     }
     .project-card {
     display: flex;
     flex-direction: column; /* الصورة فوق النص */
     width: 90%;
     height: auto;
+    border: 2px solid #0ea5e9;
 }
 
 .project-image {
@@ -1252,6 +1254,7 @@ footer {
         max-width: 350px;
         height: auto;
         padding: 15px;
+        border: 3px solid #0ea5e9;
     }
 
     .contact-label {
