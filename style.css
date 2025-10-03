@@ -250,7 +250,6 @@ body {
     object-fit: cover;
     border-radius: 50%;
     transition: transform 0.5s;
-    filter: brightness(0.6);
 }
 
 /* عند hover: الخط يتحول أزرق بس */
@@ -1133,7 +1132,6 @@ footer {
      /* الصورة نفسها بدون border */
     transition: transform 0.5s;
     transform: scale(1.1);
-    filter: brightness(0.7);
 }
 
 
