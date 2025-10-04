@@ -767,6 +767,7 @@ body {
   width: 80%;      /* خلى الصورة تاخد نصف الكارد */
   height: auto;    /* ارتفاع تلقائي يحافظ على الأبعاد */
   object-fit: cover;
+  aspect-ratio: 3 / 2;
 }
 
 .project-content {
